@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+9b0f9c54-95d2-4b66-a586-274ea116e64f,SPTRANS,http://www.sptrans.com.br/?versao=081020,America/Sao_Paulo,,pt
